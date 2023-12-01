@@ -1,0 +1,42 @@
+h1 {
+	color:darkgreen;
+	font-family:"Lucida Handwriting";
+	font-size:250%;
+}
+
+body {
+	background-image: url('https://wallpapercave.com/wp/wp8081448.jpg');
+}  
+
+.header {
+	padding: 20px;
+	text-align: center;
+	background: #ffbf00;
+	color: darkgreen;
+	font-size:10px;
+}
+
+ul {
+	font-family:"Times new Roman";
+	font-weight:normal;
+	font-size:120%;	
+}
+
+img {
+	right:300px;
+	top:1000px;
+	width:100;
+}
+
+img2 {
+	border:5px solid #000000;
+	float:right;
+	width:100;
+	display:inline-block;
+	vertical-align:middle;
+}
+
+.text {
+	display:inline-block;
+	vertical-align:middle;
+}
